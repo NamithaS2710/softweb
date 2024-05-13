@@ -127,10 +127,7 @@ Publish the website in the given URL.
     <img src="https://t3.gstatic.com/licensed-image?q=tbn:ANd9GcTqfkApl2zCLk_pG2PwOqSQd4dz0BFGndlyQJQg-an2EsqDcfLjvNQMkIv1mxyJCWzL"/>
     <h2>Larry Page</h2>
     <p>American businessman, computer scientist, and internet entrepreneur best known for co-founding Google with Sergey Brin.</p>
-  </div>
-
-  
-  
+  </div> 
 </div>
 <footer style="position: fixed; left: 0; bottom: 0; width: 100%; padding-top: 20px; padding-bottom: 20px; background-color: red
 ; color: #fff; text-align: center;">
@@ -316,8 +313,6 @@ Publish the website in the given URL.
           <p>Address: 123 Street, Chennai, India</p>
         </div>
       </div>
-
-      
 </div>
 <footer style="position: fixed; left: 0; bottom: 0; width: 100%; padding-top: 20px; padding-bottom: 20px; background-color: red; color: #fff; text-align: center;">
   Namitha
@@ -329,7 +324,5 @@ Publish the website in the given URL.
 ![WhatsApp Image 2024-05-13 at 10 55 01](https://github.com/NamithaS2710/softweb/assets/133190822/f441a413-7813-43e8-96c4-cda0a40cc0d9)
 ![WhatsApp Image 2024-05-13 at 10 57 14](https://github.com/NamithaS2710/softweb/assets/133190822/e2c86f55-c3ea-4b8c-9886-eafb8c3db11a)
 ![WhatsApp Image 2024-05-13 at 10 59 33](https://github.com/NamithaS2710/softweb/assets/133190822/e087dbfa-6052-4e85-a61f-ee1b2f7c5c11)
-
-
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
