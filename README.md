@@ -28,8 +28,8 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM:
-### PEOPLE.HTML
 ```
+PEOPLE.HTML
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -135,9 +135,9 @@ Publish the website in the given URL.
 </footer>
 </body>
 </html>
-```
-## PRODUCT.HTML
-```
+
+ PRODUCT.HTML
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -253,9 +253,9 @@ Publish the website in the given URL.
 </footer>
 </body>
 </html>
-```
-### CONTACT.HTML
-```
+
+ CONTACT.HTML
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
